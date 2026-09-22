@@ -1,2 +1,2 @@
-# my-first-project
+# MY-FIRST-PROJECT
 CAPSTONE 1
